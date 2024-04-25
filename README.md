@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mkaufman385@gmail.com**
 
-- ⚡ Fun fact **I love snowboarding and paddleboarding**
+- ⚡ Fun fact **I love snowboarding, paddleboarding, and plan to take surfing lessons soon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
