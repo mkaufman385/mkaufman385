@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew Kaufman</h1>
 <h3 align="center">A passionate full stack web developer from the United States</h3>
 
-- 🔭 I’m currently working on [Single Page Applications](https://github.com/mkaufman385/mkaufman385-web-sprint-challenge-single-page-applications)
+- 🔭 I’m currently working on [Authentication and Testing](https://github.com/mkaufman385/mkaufman385-web-sprint-challenge-authentication-and-testing)
 
 - 🌱 I’m currently learning **Linked Lists, Stacks, Queues, and Recursion**
 
