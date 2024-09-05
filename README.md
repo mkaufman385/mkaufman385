@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew Kaufman</h1>
 <h3 align="center">A passionate full stack web developer from the United States</h3>
 
-- 🔭 I’m currently working on my **Battle Bites** [https://github.com/mkaufman385/battle-bites]
+- 🔭 I’m currently working on **Battle Bites** [https://github.com/mkaufman385/battle-bites]
 
 - 🌱 I’m currently learning **Linked Lists, Stacks, Queues, and Recursion**
 
