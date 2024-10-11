@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Battle Bites** [https://github.com/mkaufman385/battle-bites]
 
-- 🌱 I’m currently learning **Linked Lists, Stacks, Queues, and Recursion**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mkaufman385](https://github.com/mkaufman385)
 
