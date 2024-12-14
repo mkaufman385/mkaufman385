@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Battle Bites** [https://github.com/mkaufman385/battle-bites]
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mkaufman385](https://github.com/mkaufman385)
 
